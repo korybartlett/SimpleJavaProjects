@@ -6,7 +6,9 @@ public class word_count {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//lets get started
+		int i = 0;
+		return;
 	}
 
 }
