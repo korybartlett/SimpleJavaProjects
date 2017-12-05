@@ -8,7 +8,7 @@ public class reverse_string {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		//pc commit
 			Scanner user_input = new Scanner(System.in);
 			
 			System.out.print("Input desired string for reversal: ");
