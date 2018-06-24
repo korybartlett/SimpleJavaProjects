@@ -18,7 +18,7 @@ public class fizzubzz {
 					System.out.println(i+": Buzz");
 				}
 				else{
-					System.out.println(i+" no match");
+					System.out.println(i+": No match");
 				}
 			}
 		}		
